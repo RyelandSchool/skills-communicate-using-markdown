@@ -7,5 +7,9 @@
 ```javascript
 var myVar = "Hello, World!";
 ```
+- [ ] Turn on github pages
+- [ ] outline portfolio
+- [ ] Introduce myself to the world
+      
 
 This is a small meaningful commit message
